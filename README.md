@@ -1,6 +1,6 @@
 # meshcode.ai
 
-**meshcode** is a native agentic development environment (ADE) for macOS and Windows — it drives the Claude Code or Codex CLI you already have, keeps the expensive model on judgment, and routes reading/search/boilerplate to cheap worker models. [Download at meshcode.ai](https://meshcode.ai).
+**meshcode** is a native agentic development environment (ADE) for macOS and Windows — it drives the Claude Code or Codex CLI you already have, keeps the expensive model on judgment, and routes reading/search/boilerplate to cheap worker models. [Download at meshcode.ai](https://meshcode.ai?utm_source=github&utm_medium=org_readme&utm_campaign=gh_.github).
 
 ## Open-source Agent Skills
 
@@ -19,6 +19,6 @@
 
 Install: download a repo zip → extract into your project's `.meshcode/skills/`.
 
-- Catalog page: [meshcode.ai/skills](https://meshcode.ai/skills)
+- Catalog page: [meshcode.ai/skills](https://meshcode.ai/skills?utm_source=github&utm_medium=org_readme&utm_campaign=gh_.github)
 - AI-readable catalog: [llms.txt](https://meshcode-ai.github.io/skills/llms.txt)
 - Skill index: [index.json](https://meshcode-ai.github.io/skills/index.json)
